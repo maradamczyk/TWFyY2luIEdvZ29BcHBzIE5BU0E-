@@ -1,0 +1,3 @@
+type FetchPicturesResponse = {
+    urls: string[];
+}
